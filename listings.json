@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/josh-allen/index.html",
       "/posts/introduction/index.html",
       "/posts/tampa-bay-lightning/index.html"
     ]
